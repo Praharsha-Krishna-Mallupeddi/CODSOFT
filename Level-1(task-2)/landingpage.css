@@ -36,11 +36,11 @@ nav a {
   color: #fff;
 }
 .hero {
-  background-image: url("profile1.jpg");
+  background-image: url("profile.png");
   background-size: cover;
   text-align: center;
   padding: 140px 0;
-  color: #fff;
+  color: #34386d;
 }
 
 .hero h2 {
